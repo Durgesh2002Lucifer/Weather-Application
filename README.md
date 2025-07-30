@@ -1,3 +1,4 @@
 # Weather Application
 
-This project shows weather details using an API.
+This project fetches weather data from an API and displays it.
+Initial commit
